@@ -1,9 +1,9 @@
-# manu-yinzcam
+# github-users-app
+The application is built using React Js and utilizing Github API.
 
-This project is created for Yinzcam Assessment
+
 
 ```
-The application is built using React Js and utilizing Github API.
 
 ```
 ## Installing
