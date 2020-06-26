@@ -4,8 +4,6 @@ The application is built using React Js and utilizing Github API.
 
 
 ```
-
-```
 ## Installing
 ```
 First clone the repository, git clone https://github.com/manunandan95/github-users-app.git
